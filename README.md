@@ -82,10 +82,9 @@ Welcome to my **Computer Vision Projects** repository! This collection showcases
 ## 📂 **Project Structure**
 ```
 computer-vision-projects/
-├── images/                   # Sample images for processing
-├── videos/                   # Sample videos for processing
-├── notebooks/                # Jupyter notebooks for each project
-├── scripts/                  # Python scripts for each project
+├── Image Processing/                   # Jupyter notebooks for image processing
+├── Video Processing/                   # Jupyter notebooks for video processing
+├── Advanced Features/                # Jupyter notebooks for advanced functionalities
 ├── README.md                 # This file
 └── requirements.txt          # List of dependencies
 ```
