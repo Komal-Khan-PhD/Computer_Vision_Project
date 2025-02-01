@@ -65,11 +65,11 @@ Welcome to my **Computer Vision Projects** repository! This collection showcases
 ## 🚀 **How to Use This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/computer-vision-projects.git
+   git clone https://github.com/Komal-Khan-PhD/Computer_Vision_Projects.git
 
 2. Navigate to the project folder:
    ```bash
-   cd computer-vision-projects
+   cd Computer_Vision_Projects
    ```
 3. Install the required dependencies:
    ```bash
