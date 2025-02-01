@@ -1,0 +1,12 @@
+# Core Libraries
+numpy==1.23.5          # For numerical operations and array manipulations
+opencv-python==4.7.0   # For image and video processing
+opencv-contrib-python==4.7.0  # Additional OpenCV modules (e.g., Haar cascades)
+
+# Jupyter Notebook (optional, for running notebooks)
+jupyter==1.0.0         # For running Jupyter notebooks
+ipykernel==6.22.0      # Kernel for Jupyter
+
+# Additional Utilities
+matplotlib==3.7.1      # For data visualization (optional)
+scikit-image==0.20.0   # For advanced image processing (optional)
